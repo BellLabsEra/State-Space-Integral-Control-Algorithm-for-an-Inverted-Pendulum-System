@@ -10,7 +10,8 @@ An academic project for ECE 4550 - Control System Design, where I applied the co
         - Anti-Windup compensation on the controlled motor voltage
         - Reference commands for zero and step cases (2 separate experiments)
         - Forward Euler approximation method
-    - Actuator that sends motor voltage values. 
+    - Actuator 
+        - sends motor voltage values
 
 **The embedded system parts comprise the …**
 - Programming in C, MATLAB, and Assembly.
@@ -22,5 +23,8 @@ An academic project for ECE 4550 - Control System Design, where I applied the co
 - UART communication protocol
 - TI LaunchPad (Microcontroller)
 - QUBE-SERVO 2
+
+Image of QUBE-SERVO 2:
+![QUBE_SERVO_2](emptyLink)
 
 In the previous project, I conducted experiments on reference command shaping a Gantry-Crane system in order to suppress vibrations (oscillations) and graphed the reference, 2-positions, and motor voltage response data in MATLAB.
