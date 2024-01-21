@@ -24,7 +24,8 @@ An academic project for ECE 4550 - Control System Design, where I applied the co
 - TI LaunchPad (Microcontroller)
 - QUBE-SERVO 2
 
-Image of QUBE-SERVO 2:
+In the previous project, I conducted experiments on reference command shaping a Gantry-Crane system in order to suppress vibrations (oscillations) and graphed the reference, 2-positions, and motor voltage response data in MATLAB.
+
+**Image of QUBE-SERVO 2:**
 ![QUBE_SERVO_2](https://github.com/BellLabsEra/State-Space-Integral-Control-Algorithm-for-an-Inverted-Pendulum-System/blob/main/QUBE-Servo_2_angled_pendulum.jpg)
 
-In the previous project, I conducted experiments on reference command shaping a Gantry-Crane system in order to suppress vibrations (oscillations) and graphed the reference, 2-positions, and motor voltage response data in MATLAB.
